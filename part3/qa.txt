@@ -1,0 +1,21 @@
+• What are the major differences between ETL and ELT approaches to data transformation?
+	
+	ETL (Extract, Transform, Load) and ELT (Extract, Load, Transform) are 
+	two different approaches to data transformation in the context of data 
+	warehousing and business intelligence.
+	
+	In both cases names are self explanaitory. In ETL we transform the data
+	before loading on target, while in ELT we load data on target and then
+	transform it.
+	
+
+• What are the major differences between data analytics and data engineering?
+	
+	Data analytics aims on analysis, interpretation and visualization of data. 
+
+	Data engineering aims on maintaining data infrastructure, data modeling, data processing, data cleaning.
+
+
+• Is there any specific software/tool/technology you are really interested in working with?
+
+	I would be happy to try to work with SnowSQL and MsSQL.
