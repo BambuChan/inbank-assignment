@@ -42,5 +42,5 @@ if __name__ == "__main__":
     files_list = [
         f for f in listdir(cwd) if (isfile(join(cwd, f)) and re.fullmatch("^data_[0-9]{4}-[0-9]{2}-[0-9]{2}\.csv$", f))
     ]
-
+    files_list.sort()
     script(files_list)
