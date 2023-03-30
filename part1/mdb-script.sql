@@ -1,4 +1,4 @@
--- Snowflake SQL syntax
+-- MariaDB SQL syntax
 
 create or replace TABLE BLACKLIST (
 	USER_ID DECIMAL(38,0),
